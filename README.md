@@ -49,7 +49,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/magnet-search-system.git
+git clone https://github.com/sumingfine/clss.git
 cd magnet-search-system
 ```
 
@@ -74,7 +74,7 @@ vim translate-config.php
 
 4. **访问系统**
 ```
-http://your-domain.com/
+https://yd.533133.xyz
 ```
 
 ## 📁 项目结构
